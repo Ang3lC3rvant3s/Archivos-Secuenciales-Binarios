@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\bin\Debug\Manejo_streams.exe.config
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\bin\Debug\Manejo_streams.exe
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\bin\Debug\Manejo_streams.pdb
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\obj\Debug\Manejo_streams.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\obj\Debug\Manejo_streams.Form1.resources
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\obj\Debug\Manejo_streams.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\obj\Debug\Manejo_streams.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\obj\Debug\Manejo_streams.exe
+c:\users\angel\documents\visual studio 2013\Projects\Manejo_streams\Manejo_streams\obj\Debug\Manejo_streams.pdb
